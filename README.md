@@ -1,4 +1,4 @@
-## :rocket: Teste técnico para Desenvolvedor(a) Front-end Júnior
+# :rocket: Teste técnico para Desenvolvedor(a) Front-end Júnior
 
 O seguinte teste foi planejado para validar os conhecimentos necessários para a posição de Desenvolvedor(a) Front-end Júnior.
 
@@ -23,7 +23,6 @@ Uma interface feita por um designer inspirado, rs.
 Você deve codificá-la :smiley:, utilizando HTML, CSS, JavaScript e NextJS.
 
 Encorajamos o uso de  um framework de utility-first como Tailwind CSS, ou bibliotecas CSS-in-JS como styled-components, sobretudo visando delimitar o escopo da estilização (em seus respectivos componentes).
-
 
 ## :dart: Requisitos do projeto
 
