@@ -15,6 +15,7 @@ Esperamos também que você se divirta e aprenda algo no processo. :blush:
 Uma interface feita por um designer inspirado, rs.
 
 - https://www.figma.com/file/p9OqAsq6EG4INjumXBi4WX/GD-%26-JR?type=design&node-id=0%3A1&mode=design&t=7DtCCKryt8g9owuF-1
+- [Site em questão](https://gdejr.com.br/)
 
 ![Interface demo](exemplo_tela.png)
 
